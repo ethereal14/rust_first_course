@@ -1,0 +1,21 @@
+[package]
+name = "concepts"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "event"
+path = "src/event.rs"
+
+[[bin]]
+name = "fib"
+path = "src/fib.rs"
+
+[[bin]]
+name = "func_exam"
+path = "src/func_exam.rs"
+
+[[bin]]
+name = "pi"
+path = "src/pi.rs"
+[dependencies]
