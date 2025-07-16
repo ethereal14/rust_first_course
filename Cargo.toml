@@ -7,4 +7,4 @@ members = [
     "04_httpie",
     "05_thumbor",
     "06_queryer"
-, "07_ownership", "08_borrow"]
+, "07_ownership", "08_borrow", "09_multi_owner"]
